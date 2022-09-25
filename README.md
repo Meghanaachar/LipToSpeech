@@ -1,2 +1,2 @@
-# Lip_To_Speech
-# LipToSpeech
+lib/site packges:stores pycharm libraries
+
